@@ -14,6 +14,16 @@ Key Achievements
   <p align="center">
   <img src="C:\Users\Nitro v\OneDrive\Pictures\Screenshots\Screenshot 2026-01-25 161819.png" width="600">
 </p>
+* **Kubernetes Dashboard**
+  <p align="center">
+  <img src="C:\Users\Nitro v\OneDrive\Pictures\Screenshots\Screenshot 2026-01-25 161819.png" width="600">
+</p>
+* **Prometheus Metrics Graph**
+   <p align="center">
+  <img src="C:\Users\Nitro v\OneDrive\Pictures\Screenshots\Screenshot 2026-01-25 161819.png" width="600">
+</p>
+
+
 
 Challenges & Troubleshooting
 * **Issue:** **ImagePullBackOff** errors in the EKS cluster.
