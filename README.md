@@ -13,7 +13,11 @@ Key Achievements
 * **Real-time Monitoring:** Designed custom Grafana dashboards to visualize cluster health, CPU, and Memory usage.
   <p align="center">
   <img src="C:\Users\Nitro v\OneDrive\Pictures\Screenshots\Screenshot 2026-01-25 161819.png" width="600">
-</p>
+</p
+  * **Real-time Argo CD pipeline visualization:**
+  <p align="center">
+  <img src="C:\Users\Nitro v\OneDrive\Pictures\Screenshots\Screenshot 2026-01-25 161819.png" width="600">
+</p
 * **Kubernetes Dashboard**
   <p align="center">
   <img src="C:\Users\Nitro v\OneDrive\Pictures\Screenshots\Screenshot 2026-01-25 161819.png" width="600">
