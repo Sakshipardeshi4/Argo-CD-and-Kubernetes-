@@ -12,19 +12,19 @@ Key Achievements
 * **99.9% Availability:** Guaranteed through active health checks and Kubernetes workload orchestration.
 * **Real-time Monitoring:** Designed custom Grafana dashboards to visualize cluster health, CPU, and Memory usage.
   <p align="center">
-  <img src="images/grafana dashboard.png" width="600">
+  <img src="https://raw.githubusercontent.com/Sakshipardeshi4/Argo-CD-and-Kubernetes-/1c0aa2f31f939fd795acd8627673935ad9abdd44/images/grafana%20dashboard.png" width="600">
 </p
   * **Real-time Argo CD pipeline visualization:**
   <p align="center">
-  <img src="images/argo cd pipeline.png" width="600">
+  <img src="https://raw.githubusercontent.com/Sakshipardeshi4/Argo-CD-and-Kubernetes-/1c0aa2f31f939fd795acd8627673935ad9abdd44/images/argo%20cd%20pipeline.png" width="600">
 </p
 * **Kubernetes Dashboard**
   <p align="center">
-  <img src="images/k8s dashboard.png" width="600">
+  <img src="https://raw.githubusercontent.com/Sakshipardeshi4/Argo-CD-and-Kubernetes-/1c0aa2f31f939fd795acd8627673935ad9abdd44/images/k8s%20dashboard.png" width="600">
 </p>
 * **Prometheus Metrics Graph**
    <p align="center">
-  <img src="images/prometheus metrics.png" width="600">
+  <img src="https://raw.githubusercontent.com/Sakshipardeshi4/Argo-CD-and-Kubernetes-/1c0aa2f31f939fd795acd8627673935ad9abdd44/images/prometheus%20metrics.png" width="600">
 </p>
 
 
