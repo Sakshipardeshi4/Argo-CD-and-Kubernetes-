@@ -11,6 +11,9 @@ Technical Stack
 Key Achievements
 * **99.9% Availability:** Guaranteed through active health checks and Kubernetes workload orchestration.
 * **Real-time Monitoring:** Designed custom Grafana dashboards to visualize cluster health, CPU, and Memory usage.
+  <p align="center">
+  <img src="C:\Users\Nitro v\OneDrive\Pictures\Screenshots\Screenshot 2026-01-25 161819.png" width="600">
+</p>
 
 Challenges & Troubleshooting
 * **Issue:** **ImagePullBackOff** errors in the EKS cluster.
@@ -18,4 +21,5 @@ Challenges & Troubleshooting
   * **Solution:** Updated the IAM Role policy to include AmazonEC2ContainerRegistryReadOnly.
 * **Issue:** **OOMKilled** pods in Prometheus.
   * **Solution:** Implemented Resource Limits/Requests and adjusted data retention periods to optimize memory.
+  
 
